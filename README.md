@@ -1,4 +1,4 @@
-|[logo] (https://github.com/Shivani0197/Shivani0197/blob/main/SHIVANI%20JHA.png)
+![logo] (https://github.com/Shivani0197/Shivani0197/blob/main/SHIVANI%20JHA.png)
 <h1>Hi 👋, I'm Shivani Jha</h1>
 <p>A passionate Software developer from India.</p>
 <h2>🚀 Languages and Tools I Use</h2>
