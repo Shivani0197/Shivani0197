@@ -1,3 +1,5 @@
+![logo](https://github.com/Shivani0197/Shivani0197/blob/main/SHIVANI%20JHA.png)
+
 # 💫 Hi 👋, I'm Shivani Jha
 **A passionate Python Software Developer || Fresher
 
