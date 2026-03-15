@@ -1,12 +1,12 @@
 ![logo](https://github.com/Shivani0197/Shivani0197/blob/main/Software%20Developer%20(1).png)
 
 # 💫 Hi 👋, I'm Shivani Jha
-**A passionate Python Software Developer || Fresher
+**A passionate JAVA FULL-STACK DEVELOPER || FRESHER
 
 Email Me 👉 ✉️ **jhashivani681@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
-🔭 I’m currently Student.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with Work.<br>🌱 I’m currently learning about programming and java.<br>💬 Ask me about Programming and Web Dev.<br>⚡ Fun fact - I'm time efficient and quite dedicated at my work.
+🔭.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with Work.<br>🌱 I’m currently learning about programming and java.<br>💬 Ask me about Programming and Web Dev.<br>⚡ Fun fact - I'm time efficient and quite dedicated at my work.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shivani0197&theme=radical&no-frame=false&no-bg=true&margin-w=4)
